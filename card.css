@@ -1,0 +1,35 @@
+img{
+width: 320px;
+height: 400px;
+}
+
+
+
+.Price{
+margin-top: 10px;
+color: red;
+font-size: 20px;
+font-weight: bold;
+
+}
+
+#title{color: blue;
+font-size: 20px;
+}
+
+.card{
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+width: 330px;
+float: left;
+border-radius: 10px;
+}
+
+input{
+    padding: 10px 20px 10px 20px;
+background-color: gold;
+font-size: 15px;
+font-weight: bold;
+border-radius: 10px;
+}
